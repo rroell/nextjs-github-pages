@@ -1,3 +1,5 @@
+Website rroell.github.io via NextJS
+
 # Deploying to GitHub Pages
 
 This example supports deloying a static Next.js application (using `next export`) to GitHub Pages.
