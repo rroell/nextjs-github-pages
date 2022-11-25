@@ -4,7 +4,7 @@
  * @type {import('next').NextConfig}
  **/
 const nextConfig = {
-  basePath: '/rroell.github.io',
+  basePath: '/website',
 }
 
 module.exports = nextConfig
